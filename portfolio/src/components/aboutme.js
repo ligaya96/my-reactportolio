@@ -2,7 +2,7 @@
 import React from "react";
 import Footer from "./footer"
 //adding resume and linkin github info here. 
-Function About () {
+Function  = () => { 
   return (
   <main className = "aboutme">
       <div classNam = "text-center">
