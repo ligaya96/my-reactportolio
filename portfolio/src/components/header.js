@@ -12,7 +12,7 @@ function header() {
             <div className="collapse navbar-collapse" id="navbarText">
                 <ul className="navbar-nav">
                     <Link to = "/aboutme"> About me </Link>
-                    <Link to = "/myproject"> Portfolio </Link>    
+                    <Link to = "/myportfolio"> Portfolio </Link>    
                     <Link to = "/contactme"> Contact me </Link>    
                 </ul>
             </div>   

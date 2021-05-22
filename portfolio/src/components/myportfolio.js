@@ -12,16 +12,16 @@ function Portfolio(){
         <div className="links">
             {/*Group  project*/}
             <h2> Group project Lyricity!</h2>
-            <a href="https://ligaya96.github.io/team9/" target="_blank">Visit Lyricity</a>
+            <a href="https://ligaya96.github.io/team9/" target="_blank" rel="noreferrer">Visit Lyricity</a>
             <h2> Lee's Reptile Emporium </h2>
-            <a href="https://github.com/ligaya96/team2" target="_blank">Visit Lee's Emporium!</a>
+            <a href="https://github.com/ligaya96/team2" target="_blank"rel="noreferrer">Visit Lee's Emporium!</a>
             {/*my assignments*/}
             <h2>Employee Trackboard Backend </h2>
-            <a href="https://github.com/ligaya96/MyEmployee-Tracker" target="_blank">My Employee Trackboard</a>
+            <a href="https://github.com/ligaya96/MyEmployee-Tracker" target="_blank" rel="noreferrer">My Employee Trackboard</a>
             <h2> Fitness Tracker</h2>
-            <a href="https://gentle-temple-24867.herokuapp.com/index.html" target="_blank"> My Fitness Tracker</a>
+            <a href="https://gentle-temple-24867.herokuapp.com/index.html" target="_blank" rel="noreferrer"> My Fitness Tracker</a>
             <h2> My note Taker </h2>
-            <a href="https://github.com/ligaya96/Mynote-Taker" target="_blank"> My Note Taker</a>
+            <a href="https://github.com/ligaya96/Mynote-Taker" target="_blank" rel="noreferrer"> My Note Taker</a>
           </div>  
           <Footer/>        
      </div>    
