@@ -5,10 +5,10 @@ import Footer from "./footer"
 function About()  { 
   return (
   <main className = "aboutme">
-      <div classNam = "text-center">
+      <div className = "text-center">
           <h1> About Ligaya </h1>
         <div className = "row">
-            <div className = "pictureofme">
+            <div className = "img">
              {/* picture of me */} 
              <img src="../images/professional.jpg" alt="professional"  style={{ paddingTop: '50px' }} /> 
             </div>

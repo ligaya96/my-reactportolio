@@ -22,6 +22,7 @@ function Portfolio(){
             <a href="https://gentle-temple-24867.herokuapp.com/index.html" target="_blank" rel="noreferrer"> My Fitness Tracker</a>
             <h2> My note Taker </h2>
             <a href="https://github.com/ligaya96/Mynote-Taker" target="_blank" rel="noreferrer"> My Note Taker</a>
+            {/* reminder to add BookList to portfolio */}
           </div>  
           <Footer/>        
      </div>    
