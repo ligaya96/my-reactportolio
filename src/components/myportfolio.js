@@ -14,7 +14,7 @@ function Portfolio(){
             <h2> Group project Lyricity!</h2>
             <a href="https://ligaya96.github.io/team9/" target="_blank" rel="noreferrer">Visit Lyricity</a>
             <h2> Lee's Reptile Emporium </h2>
-            <a href="https://github.com/ligaya96/team2" target="_blank"rel="noreferrer">Visit Lee's Emporium!</a>
+            <a href="https://ligaya96.github.io/team2/" target="_blank"rel="noreferrer">Visit Lee's Emporium!</a>
             {/*my assignments*/}
             <h2>Employee Trackboard Backend </h2>
             <a href="https://github.com/ligaya96/MyEmployee-Tracker" target="_blank" rel="noreferrer">My Employee Trackboard</a>

@@ -10,7 +10,7 @@ function About()  {
         <div className = "row">
             <div className = "img">
              {/* picture of me */} 
-             <img src="../images/professional.jpg" alt="professional"  style={{ paddingTop: '50px' }} /> 
+             <img src="../public/images/professional.JPG" alt="professional"  style={{ paddingTop: '30px' }} /> 
             </div>
             {/* A paragraph about me */}
             <p className="text"> 
