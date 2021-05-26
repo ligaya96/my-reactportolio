@@ -10,7 +10,7 @@ function About()  {
         <div className = "row">
             <div className = "img">
              {/* picture of me */} 
-             <img src="../public/images/professional.JPG" alt="professional"  class="img-thumbnail" /> 
+             <img src="../public/images/professional.jpg" alt="professional"  class="img-thumbnail" /> 
             </div>
             {/* A paragraph about me */}
             <p className="text"> 
