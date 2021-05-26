@@ -8,6 +8,7 @@ Create React App
 Ligaya Herndon
 
 # ScreenShot
+<img src= "./public/images/screenshot.png" alt="reactportfolio" /> 
 
 # Deployed Link 
  <a href="https://ligaya96.github.io/my-reactportolio/" target="_blank" rel="noreferrer"> Ligaya Portfolio</a>
